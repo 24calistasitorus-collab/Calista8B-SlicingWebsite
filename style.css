@@ -1,0 +1,743 @@
+.desktop {
+  background-color: #ffffff;
+  width: 100%;
+  min-width: 1440px;
+  min-height: 1024px;
+  position: relative;
+}
+
+.desktop .element {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+  aspect-ratio: 1.41;
+  object-fit: cover;
+}
+
+.desktop .text-wrapper {
+  position: absolute;
+  top: 83px;
+  left: 639px;
+  font-family: "Lemon-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .rounded-rectangle {
+  position: absolute;
+  top: 47px;
+  left: 846px;
+  width: 336px;
+  height: 136px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  opacity: 0.8;
+}
+
+.desktop .div {
+  position: absolute;
+  top: 83px;
+  left: 959px;
+  font-family: "Lemon-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .magnifying-glass {
+  position: absolute;
+  top: 67px;
+  left: 866px;
+  width: 96px;
+  height: 96px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.desktop .ellipse {
+  position: absolute;
+  top: 67px;
+  left: 72px;
+  width: 202px;
+  height: 196px;
+  object-fit: cover;
+   border-radius: 50%;
+  margin-bottom: 25px;
+  display: block;
+  margin: 0 auto;
+  display: block;
+  margin: 0 auto;
+  box-shadow: 3px 3px 8px;
+  display: inline-block;
+  transition: all 0.3s ease-in-out;
+}
+.ellipse:hover {
+  transform: scale(1.1);
+}
+
+.desktop2 {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 100%;
+  min-width: 1440px;
+  min-height: 1024px;
+  position: relative;
+}
+
+.desktop2 .element {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+  aspect-ratio: 1.41;
+  object-fit: cover;
+}
+
+.desktop2 .ellipse {
+  top: 124px;
+  left: 38px;
+  position: absolute;
+  width: 314px;
+  height: 328px;
+  object-fit: cover;
+     border-radius: 50%;
+  margin-bottom: 25px;
+  display: block;
+  margin: 0 auto;
+  display: block;
+  margin: 0 auto;
+  box-shadow: 3px 3px 8px;
+  display: inline-block;
+  transition: all 0.3s ease-in-out;
+}
+.ellipse:hover {
+  transform: scale(1.1);
+}
+
+
+.desktop2 .img {
+  top: 124px;
+  left: 406px;
+  position: absolute;
+  width: 314px;
+  height: 328px;
+  object-fit: cover;
+     border-radius: 50%;
+  margin-bottom: 25px;
+  display: block;
+  margin: 0 auto;
+  display: block;
+  margin: 0 auto;
+  box-shadow: 3px 3px 8px;
+  display: inline-block;
+  transition: all 0.3s ease-in-out;
+}
+.img:hover {
+  transform: scale(1.1);
+}
+
+.desktop2 .ellipse-2 {
+  top: 124px;
+  left: 774px;
+  position: absolute;
+  width: 314px;
+  height: 328px;
+  object-fit: cover;
+     border-radius: 50%;
+  margin-bottom: 25px;
+  display: block;
+  margin: 0 auto;
+  display: block;
+  margin: 0 auto;
+  box-shadow: 3px 3px 8px;
+  display: inline-block;
+  transition: all 0.3s ease-in-out;
+}
+.ellipse-2:hover {
+  transform: scale(1.1);
+}
+
+.desktop2 .ellipse-3 {
+  top: 565px;
+  left: 38px;
+  position: absolute;
+  width: 314px;
+  height: 328px;
+  object-fit: cover;
+     border-radius: 50%;
+  margin-bottom: 25px;
+  display: block;
+  margin: 0 auto;
+  display: block;
+  margin: 0 auto;
+  box-shadow: 3px 3px 8px;
+  display: inline-block;
+  transition: all 0.3s ease-in-out;
+}
+.ellipse-3:hover {
+  transform: scale(1.1);
+}
+
+.desktop2 .ellipse-4 {
+  top: 565px;
+  left: 774px;
+  position: absolute;
+  width: 314px;
+  height: 328px;
+  object-fit: cover;
+     border-radius: 50%;
+  margin-bottom: 25px;
+  display: block;
+  margin: 0 auto;
+  display: block;
+  margin: 0 auto;
+  box-shadow: 3px 3px 8px;
+  display: inline-block;
+  transition: all 0.3s ease-in-out;
+}
+.ellipse-4:hover {
+  transform: scale(1.1);
+}
+
+
+.desktop2 .ellipse-5 {
+  top: 348px;
+  left: 1126px;
+  position: absolute;
+  width: 314px;
+  height: 328px;
+  object-fit: cover;
+     border-radius: 50%;
+  margin-bottom: 25px;
+  display: block;
+  margin: 0 auto;
+  display: block;
+  margin: 0 auto;
+  box-shadow: 3px 3px 8px;
+  display: inline-block;
+  transition: all 0.3s ease-in-out;
+}
+.ellipse-5:hover {
+  transform: scale(1.1);
+}
+
+.desktop2 .ellipse-6 {
+  top: 565px;
+  left: 406px;
+  position: absolute;
+  width: 314px;
+  height: 328px;
+  object-fit: cover;
+     border-radius: 50%;
+  margin-bottom: 25px;
+  display: block;
+  margin: 0 auto;
+  display: block;
+  margin: 0 auto;
+  box-shadow: 3px 3px 8px;
+  display: inline-block;
+  transition: all 0.3s ease-in-out;
+}
+.ellipse-6:hover {
+  transform: scale(1.1);
+}
+
+
+.desktop2 .rounded-rectangle {
+  position: absolute;
+  top: 444px;
+  left: 38px;
+  width: 316px;
+  height: 136px;
+  background-color: #bc915c;
+  border-radius: 50px;
+}
+
+.desktop2 .mochi-box {
+  position: absolute;
+  top: 451px;
+  left: 60px;
+  font-family: "Days One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop2 .div {
+  top: 444px;
+  left: 406px;
+  position: absolute;
+  width: 316px;
+  height: 136px;
+  background-color: #bc915c;
+  border-radius: 50px;
+}
+
+.desktop2 .brownies-box {
+  position: absolute;
+  top: 451px;
+  left: 442px;
+  font-family: "Days One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop2 .rounded-rectangle-2 {
+  top: 444px;
+  left: 774px;
+  position: absolute;
+  width: 316px;
+  height: 136px;
+  background-color: #bc915c;
+  border-radius: 50px;
+}
+
+.desktop2 .cake-box {
+  position: absolute;
+  top: 451px;
+  left: 812px;
+  font-family: "Days One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop2 .rounded-rectangle-3 {
+  top: 676px;
+  left: 1126px;
+  position: absolute;
+  width: 316px;
+  height: 136px;
+  background-color: #bc915c;
+  border-radius: 50px;
+}
+
+.desktop2 .rounded-rectangle-4 {
+  top: 873px;
+  left: 38px;
+  position: absolute;
+  width: 316px;
+  height: 136px;
+  background-color: #bc915c;
+  border-radius: 50px;
+}
+
+.desktop2 .rounded-rectangle-5 {
+  top: 887px;
+  left: 406px;
+  position: absolute;
+  width: 316px;
+  height: 136px;
+  background-color: #bc915c;
+  border-radius: 50px;
+}
+
+.desktop2 .rounded-rectangle-6 {
+  top: 880px;
+  left: 774px;
+  position: absolute;
+  width: 316px;
+  height: 136px;
+  background-color: #bc915c;
+  border-radius: 50px;
+}
+
+.desktop2 .donut-pcs {
+  position: absolute;
+  top: 887px;
+  left: 74px;
+  font-family: "Days One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop2 .milkshake-pcs {
+  position: absolute;
+  top: 893px;
+  left: 426px;
+  font-family: "Days One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop2 .dessert-box-pcs {
+  position: absolute;
+  top: 887px;
+  left: 771px;
+  font-family: "Days One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop2 .ice-cream-cup {
+  position: absolute;
+  top: 683px;
+  left: 1148px;
+  font-family: "Days One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop3 {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 100%;
+  min-width: 1440px;
+  min-height: 1024px;
+  position: relative;
+}
+
+.desktop3 .element {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+  aspect-ratio: 1.41;
+  object-fit: cover;
+}
+
+.desktop3 .ellipse {
+  top: 124px;
+  left: 38px;
+  position: absolute;
+  width: 314px;
+  height: 328px;
+  object-fit: cover;
+     border-radius: 50%;
+  margin-bottom: 25px;
+  display: block;
+  margin: 0 auto;
+  display: block;
+  margin: 0 auto;
+  box-shadow: 3px 3px 8px;
+  display: inline-block;
+  transition: all 0.3s ease-in-out;
+}
+.ellipse:hover {
+  transform: scale(1.1);
+}
+
+
+.desktop3 .img {
+  top: 124px;
+  left: 406px;
+  position: absolute;
+  width: 314px;
+  height: 328px;
+  object-fit: cover;
+     border-radius: 50%;
+  margin-bottom: 25px;
+  display: block;
+  margin: 0 auto;
+  display: block;
+  margin: 0 auto;
+  box-shadow: 3px 3px 8px;
+  display: inline-block;
+  transition: all 0.3s ease-in-out;
+}
+.img:hover {
+  transform: scale(1.1);
+}
+
+.desktop3 .ellipse-2 {
+  top: 124px;
+  left: 774px;
+  position: absolute;
+  width: 314px;
+  height: 328px;
+  object-fit: cover;
+     border-radius: 50%;
+  margin-bottom: 25px;
+  display: block;
+  margin: 0 auto;
+  display: block;
+  margin: 0 auto;
+  box-shadow: 3px 3px 8px;
+  display: inline-block;
+  transition: all 0.3s ease-in-out;
+}
+.ellipse-2:hover {
+  transform: scale(1.1);
+}
+
+.desktop3 .ellipse-3 {
+  top: 565px;
+  left: 38px;
+  position: absolute;
+  width: 314px;
+  height: 328px;
+  object-fit: cover;
+     border-radius: 50%;
+  margin-bottom: 25px;
+  display: block;
+  margin: 0 auto;
+  display: block;
+  margin: 0 auto;
+  box-shadow: 3px 3px 8px;
+  display: inline-block;
+  transition: all 0.3s ease-in-out;
+}
+.ellipse-3:hover {
+  transform: scale(1.1);
+}
+
+.desktop3 .ellipse-4 {
+  top: 565px;
+  left: 774px;
+  position: absolute;
+  width: 314px;
+  height: 328px;
+  object-fit: cover;
+     border-radius: 50%;
+  margin-bottom: 25px;
+  display: block;
+  margin: 0 auto;
+  display: block;
+  margin: 0 auto;
+  box-shadow: 3px 3px 8px;
+  display: inline-block;
+  transition: all 0.3s ease-in-out;
+}
+.ellipse-4:hover {
+  transform: scale(1.1);
+}
+
+
+.desktop3 .ellipse-5 {
+  top: 348px;
+  left: 1126px;
+  position: absolute;
+  width: 314px;
+  height: 328px;
+  object-fit: cover;
+     border-radius: 50%;
+  margin-bottom: 25px;
+  display: block;
+  margin: 0 auto;
+  display: block;
+  margin: 0 auto;
+  box-shadow: 3px 3px 8px;
+  display: inline-block;
+  transition: all 0.3s ease-in-out;
+}
+.ellipse-5:hover {
+  transform: scale(1.1);
+}
+
+.desktop3 .ellipse-6 {
+  top: 565px;
+  left: 406px;
+  position: absolute;
+  width: 314px;
+  height: 328px;
+  object-fit: cover;
+     border-radius: 50%;
+  margin-bottom: 25px;
+  display: block;
+  margin: 0 auto;
+  display: block;
+  margin: 0 auto;
+  box-shadow: 3px 3px 8px;
+  display: inline-block;
+  transition: all 0.3s ease-in-out;
+}
+.ellipse-6:hover {
+  transform: scale(1.1);
+}
+
+
+.desktop3 .rounded-rectangle {
+  position: absolute;
+  top: 444px;
+  left: 38px;
+  width: 316px;
+  height: 136px;
+  background-color: #DB7675;
+  border-radius: 50px;
+}
+
+.desktop3 .mochi-box {
+  position: absolute;
+  top: 451px;
+  left: 60px;
+  font-family: "Days One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop3 .div {
+  top: 444px;
+  left: 406px;
+  position: absolute;
+  width: 316px;
+  height: 136px;
+  background-color: #DB7675;
+  border-radius: 50px;
+}
+
+.desktop3 .brownies-box {
+  position: absolute;
+  top: 451px;
+  left: 442px;
+  font-family: "Days One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop3 .rounded-rectangle-2 {
+  top: 444px;
+  left: 774px;
+  position: absolute;
+  width: 316px;
+  height: 136px;
+  background-color: #DB7675;
+  border-radius: 50px;
+}
+
+.desktop3 .cake-box {
+  position: absolute;
+  top: 451px;
+  left: 812px;
+  font-family: "Days One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop3 .rounded-rectangle-3 {
+  top: 676px;
+  left: 1126px;
+  position: absolute;
+  width: 316px;
+  height: 136px;
+  background-color: #DB7675;
+  border-radius: 50px;
+}
+
+.desktop3 .rounded-rectangle-4 {
+  top: 873px;
+  left: 38px;
+  position: absolute;
+  width: 316px;
+  height: 136px;
+  background-color: #DB7675;
+  border-radius: 50px;
+}
+
+.desktop3 .rounded-rectangle-5 {
+  top: 887px;
+  left: 406px;
+  position: absolute;
+  width: 316px;
+  height: 136px;
+  background-color: #DB7675;
+  border-radius: 50px;
+}
+
+.desktop3 .rounded-rectangle-6 {
+  top: 880px;
+  left: 774px;
+  position: absolute;
+  width: 316px;
+  height: 136px;
+  background-color: #DB7675;
+  border-radius: 50px;
+}
+
+.desktop3 .donut-pcs {
+  position: absolute;
+  top: 887px;
+  left: 74px;
+  font-family: "Days One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop3 .milkshake-pcs {
+  position: absolute;
+  top: 893px;
+  left: 426px;
+  font-family: "Days One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop3 .dessert-box-pcs {
+  position: absolute;
+  top: 887px;
+  left: 771px;
+  font-family: "Days One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop3 .ice-cream-cup {
+  position: absolute;
+  top: 683px;
+  left: 1148px;
+  font-family: "Days One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
